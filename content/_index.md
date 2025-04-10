@@ -23,7 +23,7 @@ sections:
       background:
         color: white
         image:
-           Add your image background to `assets/media/`.
+           #Add your image background to `assets/media/`.
           filename: osee.jpg
           filters:
             brightness: 1.0
