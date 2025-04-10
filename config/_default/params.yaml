@@ -60,10 +60,10 @@ features:
   privacy_pack:
     enable: false
 
-params:
-  customCSS:
-    - "css/custom.css"
+#params:
+  #customCSS:
+    #- "css/custom.css"
 
-  customFont:
-    google: "https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap"
-    fontFamily: "Inter, sans-serif"
+  #customFont:
+    #google: "https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap"
+    #fontFamily: "Inter, sans-serif"
