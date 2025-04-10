@@ -1,6 +1,8 @@
-// Example: Import Google Fonts and a custom font
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-
+/* custom.scss */
 body {
-    font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: red;
 }
