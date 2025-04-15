@@ -9,7 +9,7 @@ display_categories:
 horizontal: false
 ---
 
-# Work in Progress
+## Work in Progress
 **[XXX](https://google.com)**  
 with [XXX](https://google.com)
 - Presentations: YYY\*
