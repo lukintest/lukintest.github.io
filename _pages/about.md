@@ -28,6 +28,6 @@ latest_posts:
 ---
 
 Welcome to this Website!
-Link to [CV]([http://reddit.com](https://lukintest.github.io/assets/pdf/CV.pdf). 
+Link to [CV](https://lukintest.github.io/assets/pdf/CV.pdf). 
 
 
