@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University of XXX</p>
-    <p>[Department of XXX](www.google.com) </p>
+    <p><a target="_blank" href="https://www.google.com/">University of XXX</a></p>
     <p>XXX</p>
     <p>XXX</p>
 
