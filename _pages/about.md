@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a target="_blank" href='www.google.com'>University of XXX</a>.
 
 profile:
   align: right
