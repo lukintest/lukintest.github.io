@@ -2,16 +2,17 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a target="_blank" href='www.google.com'>University of XXX</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>University of XXX</p>
+    <p>[Department of XXX](www.google.com) </p>
+    <p>XXX</p>
+    <p>XXX</p>
+
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
