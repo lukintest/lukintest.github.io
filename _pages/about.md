@@ -32,15 +32,3 @@ I am a xth year PhD student in Economics at the <a href="https://www.google.com"
 
 <a id="cv-link" href="https://lukintest.github.io/assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer">Link to my CV.</a>
 
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const cvLink = document.getElementById("cv-link");
-    if (cvLink) {
-      cvLink.addEventListener("click", function () {
-        console.log("CV link clicked!");
-        insights.track({ id: "show-cv" });
-      });
-    }
-  });
-</script>
