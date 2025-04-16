@@ -10,11 +10,11 @@ horizontal: false
 ---
 
 ## Work in Progress
-**[XXX](https://google.com)**  
+**<a href="https://www.google.com" target="_blank" rel="noopener noreferrer">Paper 1</a>**  
 with [XXX](https://google.com)
 - Presentations: YYY\*
 
-**[XXX](https://google.com)**  
+**<a href="https://www.google.com" target="_blank" rel="noopener noreferrer">Paper 2</a>**  
 with [XXX](https://google.com)
 - Presentations: YYY\*
 
