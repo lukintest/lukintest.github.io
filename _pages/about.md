@@ -30,5 +30,5 @@ latest_posts:
 
 I am a xth year PhD student in Economics at the <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">University of XXX</a>.
 
-<a href="https://lukintest.github.io/assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer">Link to my CV.</a>
+<a id="cv-link" href="https://lukintest.github.io/assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer">Link to my CV.</a>
 
