@@ -13,7 +13,7 @@ University of XXX
 - **XXX** (Prof. YYY), 20XX
 - **XXX** (Prof. YYY), 20XX
 
-## Thesis Supervision
+## Current Thesis Supervision
 University of XXX
 - **XXX** (Prof. YYY), 20XX
 - **XXX** (Prof. YYY), 20XX
