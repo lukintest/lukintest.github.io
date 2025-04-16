@@ -2,17 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student at <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">Department of XXX</a>, <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">University of XXX</a>.
+subtitle: Welcome to my website!
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info:  |
-    <p>University of XXX</p>
-    <p>Department of XXX</p>
-    <p>XXX</p>
-    <p>XXX</p>
+  more_info:  >
+    <p>University of XX</p>
+    <p>Department of Economics</p>
+    <p>YYY</p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -29,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my Website!
+I am a xth year PhD student in Economics at the <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">University of XXX</a>.
 
 <a href="https://lukintest.github.io/assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer">Link to my CV.</a>
 
