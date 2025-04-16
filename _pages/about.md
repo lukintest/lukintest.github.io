@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student at <a target="_blank" href="www.google.com">Department of XXX</a>, <a target="_blank" href="www.google.com">University of YYY</a>.
+subtitle: PhD Student at <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">Department of XXX</a>, <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">University of XXX</a>.
 
 profile:
   align: right
@@ -31,6 +31,5 @@ latest_posts:
 
 Welcome to my Website!
 
-<a target="_blank" href="[www.google.com](https://lukintest.github.io/assets/pdf/CV.pdf)">Please find here a link to my CV</a>
-
+<a href="https://lukintest.github.io/assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer">Link to my CV.</a>
 
