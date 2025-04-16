@@ -30,6 +30,6 @@ latest_posts:
 
 Welcome to my Website!
 
-Please find here a link to my [CV](https://lukintest.github.io/assets/pdf/CV.pdf)! 
+[Please find here a link to my CV](https://lukintest.github.io/assets/pdf/CV.pdf)! 
 
 
