@@ -7,9 +7,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info:  |
     <p>University of XXX</p>
-    <p><a target="_blank" href="https://www.google.com/">University of XXX</a></p>
+    <p><a target="_blank" href="https://www.google.com/">Department of XXX</a></p>
     <p>XXX</p>
     <p>XXX</p>
 
@@ -28,7 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to this Website!
-Link to [CV](https://lukintest.github.io/assets/pdf/CV.pdf). 
+Welcome to my Website!
+
+Please find here a link to my [CV](https://lukintest.github.io/assets/pdf/CV.pdf)! 
 
 
