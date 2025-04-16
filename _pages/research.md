@@ -14,6 +14,10 @@ horizontal: false
 with [XXX](https://google.com)
 - Presentations: YYY\*
 
+**[XXX](https://google.com)**  
+with [XXX](https://google.com)
+- Presentations: YYY\*
+
 
 \* *Presented by Co-Author*
 
