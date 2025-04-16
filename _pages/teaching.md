@@ -8,12 +8,18 @@ nav_order: 6
 ---
 
 
-## Teaching Experience
-**XXX**, XXX University Economics
-- abc.
-- def.
+## Current Teaching
+University of XXX
+- **XXX** (Prof. YYY), 20XX
+- **XXX** (Prof. YYY), 20XX
 
 ## Thesis Supervision
-**XXX**, XXX University Economics
-- abc.
-- def.
+University of XXX
+- **XXX** (Prof. YYY), 20XX
+- **XXX** (Prof. YYY), 20XX
+
+## Previous Teaching
+University of XXX
+- **XXX** (Prof. YYY), 20XX
+- **XXX** (Prof. YYY), 20XX
+
