@@ -12,7 +12,15 @@
       {% endif %}
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
+    
     {% include head.liquid %}
+
+    <!-- Insights Analytics Script -->
+    <script src="https://getinsights.io/js/insights.js"></script>
+    <script>
+      insights.init('YOUR_PROJECT_ID');  <!-- Replace with your actual project ID -->
+      insights.trackPages();
+    </script>
   </head>
 
   <!-- Body -->
@@ -52,5 +60,19 @@
 
     <!-- JavaScripts -->
     {% include scripts.liquid %}
+
+    <!-- Track CV Link Click -->
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const cvLink = document.getElementById("cv-link");
+        if (cvLink) {
+          cvLink.addEventListener("click", function () {
+            console.log("CV link clicked!");
+            insights.track({ id: "show-cv" });
+          });
+        }
+      });
+    </script>
+
   </body>
 </html>
