@@ -2,14 +2,15 @@
 layout: about
 title: About
 permalink: /
+subtitle: PhD Student at <a target="_blank" href="www.google.com">Department of XXX</a>, <a target="_blank" href="www.google.com">University of YYY</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info:  |
+  more_info:  <
     <p>University of XXX</p>
-    <p><a target="_blank" href="https://www.google.com/">Department of XXX</a></p>
+    <p>Department of XXX</a></p>
     <p>XXX</p>
     <p>XXX</p>
 
